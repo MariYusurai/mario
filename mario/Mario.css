@@ -1,0 +1,21 @@
+body{  background-color: rgb(190, 228, 238);}
+
+.pagina{ 
+         background-image: url(cenario.jpg);
+         background-repeat: no-repeat;
+         background-size: 100%;
+         bottom: 0;  
+         color: black; 
+         left: 0;
+         overflow: auto;
+         padding: 3em;
+         position: absolute;
+         text-align: center; }
+
+#fotos{
+         width: 100%;
+         height: auto;}
+
+.pagina h1 img{ 
+        width:   60%;
+        height: 300px;}
